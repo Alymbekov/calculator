@@ -1,0 +1,26 @@
+.a{
+		position: absolute;
+
+	width: 500px;
+	height: 600px;
+	background-color: blue;
+	margin-left: 30%;
+	margin-top: 80px;
+	border-radius: 10px;
+
+}
+.calc_display-input{
+	position: absolute;
+width: 350px;
+height: 50px;
+background-color: white;
+border-radius: 10px;
+margin-left: 70px;
+}
+
+.stil1 {
+	position: absolute;
+    margin-left: 36%;
+    margin-top: 220px;
+
+}
